@@ -1,0 +1,8 @@
+prefix=/home/gym/catkin_ws/install
+
+Name: ur3_gazebo
+Description: Description of ur3_gazebo
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/gym/catkin_ws/install/lib 
+Requires: 

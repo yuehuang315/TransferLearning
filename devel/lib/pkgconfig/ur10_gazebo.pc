@@ -1,0 +1,8 @@
+prefix=/home/gym/catkin_ws/devel
+
+Name: ur10_gazebo
+Description: Description of ur10_gazebo
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/gym/catkin_ws/devel/lib 
+Requires: 

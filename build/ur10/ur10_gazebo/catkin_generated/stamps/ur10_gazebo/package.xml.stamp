@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<package format="2">
+  <name>ur10_gazebo</name>
+  <version>0.0.0</version>
+  <description>
+    Gazebo simulation for the UR10 robot with a robotiq gripper
+  </description>
+
+  <maintainer email="huangyuehit@gmail.com">Yue Huang</maintainer>
+  <license>BSD</license>
+
+  <buildtool_depend>catkin</buildtool_depend>
+  <exec_depend>ur10_description</exec_depend>
+  <exec_depend>robotiq_gazebo</exec_depend>
+
+  <export>
+  </export>
+
+</package>
